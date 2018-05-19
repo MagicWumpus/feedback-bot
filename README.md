@@ -1,2 +1,2 @@
-# super-super-heroku-bot
-Bot using heroku, 24/7!
+# Feedback Bot
+Bot API for the "Feedback" bot!
